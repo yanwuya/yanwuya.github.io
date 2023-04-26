@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>桂林</title>
+    <link href="/2023/04/24/%E6%A1%82%E6%9E%97/"/>
+    <url>/2023/04/24/%E6%A1%82%E6%9E%97/</url>
+    
+    <content type="html"><![CDATA[<h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><p>带几身衣服 睡衣 贴身衣物 身份证 充电器 充电宝 耳机 墨镜 防晒 一把遮阳伞或者遮阳帽、防晒衣 20元人名币<br>口罩 袜子 护肤品 驱蚊 吃的 拖鞋或一次性雨衣 手机防水袋挂脖子上</p><h2 id="一、4-29日"><a href="#一、4-29日" class="headerlink" title="一、4.29日"></a>一、4.29日</h2><p>晚20点到桂林西站</p><ul><li><p>1.去酒店<br> 打车30min/公交22路32分钟 桂林西站上车 胜利路三巷口下车 十个站</p></li><li><p>2.吃东西<br> 东西巷：推荐：竹筒奶茶、椿茶；<br> 人应该是爆满<br> 步行正阳步行街：推荐：老表记的鸭脚煲；</p><p> 推荐特色美食：<font color="red">桂林米粉、啤酒鱼、醋血鸭、田螺酿、冰凉粉、水糍粑、卷筒粉、油茶</font></p></li><li><p>3.看夜景(如果时间够的话)<br> 步行/电动至象山（3号门进，2号出）、（两江四湖观夜景）日月双塔文化公园：最佳观景处➡知音台（10点结束亮灯）；</p></li></ul><h2 id="二、4-30"><a href="#二、4-30" class="headerlink" title="二、4.30"></a>二、4.30</h2><p>早上去阳朔</p><ul><li>1.坐船去漓江 灵川磨盘山码头/竹江码头 -&gt; 龙头山码头 全程四个小时左右<ul><li>三星 200多(盒饭) 四星 300多(自助餐) </li></ul></li><li>2.先到酒店（千百度） 酒店距离西街2.6KM 然后吃饭（问民宿老板租车） </li><li>3.银子岩（首选这个）<ul><li>从住宿到银子岩 20公里 车</li></ul></li><li>4.西街逛一逛吃饭</li></ul><h2 id="三、5-1"><a href="#三、5-1" class="headerlink" title="三、5.1"></a>三、5.1</h2><ul><li>1.早起吃饭 去金龙船码头</li><li>2.直奔遇龙河漂流 选择金龙船码头 -&gt; 旧县码头 全程90分钟<br><img src="/2023/04/24/%E6%A1%82%E6%9E%97/1682261944038.jpg"><br><img src="/2023/04/24/%E6%A1%82%E6%9E%97/1682262214577.jpg"></li><li>3.吃个饭</li><li>4.十里画廊-工农桥-月亮山-大榕树</li><li>5.回酒店</li></ul><h2 id="四、5-2"><a href="#四、5-2" class="headerlink" title="四、5.2"></a>四、5.2</h2><p>上午打车去阳朔汽车站，然后坐大巴到兴坪客运站（可以寄存行李10r+租电动车15r）//直接打车古镇贵</p><ul><li>1.兴坪古镇  游玩+吃早饭</li><li>2.20元人民币观景台打卡</li></ul><h2 id="五、14-55的动车"><a href="#五、14-55的动车" class="headerlink" title="五、14:55的动车"></a>五、14:55的动车</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>基本应用</title>
+    <link href="/2023/04/24/%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/"/>
+    <url>/2023/04/24/%E5%9F%BA%E6%9C%AC%E5%BA%94%E7%94%A8/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一个新的文章"><a href="#创建一个新的文章" class="headerlink" title="创建一个新的文章"></a>创建一个新的文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="启动服务"><a href="#启动服务" class="headerlink" title="启动服务"></a>启动服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>乐山</title>
+    <link href="/2023/04/05/%E4%B9%90%E5%B1%B1/"/>
+    <url>/2023/04/05/%E4%B9%90%E5%B1%B1/</url>
+    
+    <content type="html"><![CDATA[<h1 id="四川旅游——乐山二日游"><a href="#四川旅游——乐山二日游" class="headerlink" title="四川旅游——乐山二日游"></a>四川旅游——乐山二日游</h1><p>天气 阴天  12 - 24度  带套衣服 一件稍厚的<br>准备的东西<br>睡衣 身份证 墨镜 充电器 充电宝 耳机 护肤品 防晒 备吧伞以防万一</p><p>交通直接打车 没多远</p><h2 id="4-7"><a href="#4-7" class="headerlink" title="4.7"></a>4.7</h2><p>成都→乐山→民宿</p><h2 id="4-8"><a href="#4-8" class="headerlink" title="4.8"></a>4.8</h2><p>起床收拾一下去东大街觅食 (、叶婆婆钵钵鸡、九妹凤爪、赵鸭子、随处可见的翘脚牛肉、九九豆腐脑、雷四孃蛋烘糕-推荐三牛)-&gt;旁边的冬泳广场隔江看大佛全景（阴天不一定好看）</p><p>景点:乐山大佛¥80<br>我们早上开园的时候去的，票可以提前线上订。在旅游团到之前去玩就没有那么拥挤，景区路很陡，要穿舒适的鞋。游玩时长1h～2h</p><p>乐山大佛-&gt;嘉祥路（英子油炸、鞠婆婆·绵绵冰、串妹儿冰粉、翘脚牛肉）</p><p>回酒店  搓麻将</p><h2 id="4-9"><a href="#4-9" class="headerlink" title="4.9"></a>4.9</h2><p>继续打麻将或者打卡一些吃的<br>记得给张哥她们带甜皮鸭</p><p>下午三点的车返程<br>乐山-&gt;成都</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>长沙</title>
+    <link href="/2023/03/06/%E9%95%BF%E6%B2%99/"/>
+    <url>/2023/03/06/%E9%95%BF%E6%B2%99/</url>
+    
+    <content type="html"><![CDATA[<h1 id="四川旅游——长沙四日游"><a href="#四川旅游——长沙四日游" class="headerlink" title="四川旅游——长沙四日游"></a>四川旅游——长沙四日游</h1><p>带身衣服 睡衣我带 身份证 充电器 充电宝 耳机<br>口罩 内衣裤 袜子 护肤品<br>雨伞一把 可能有雨</p><p>长沙市内交通<br>如何领取乘车码:下载“长沙地铁”/“湘行一卡通”，充值10r即可扫码乘车;公交营和地铁一都可以用<br>地铁运营时间:   早上6: 30,收班23: 00<br>公交车运营时间: 早上6: 00,收班21: 00左右(不同的线路收班时间不同)，票价为2元</p><h2 id="3-9"><a href="#3-9" class="headerlink" title="3.9"></a>3.9</h2><p>飞机九点过落地  地铁6号线-&gt;2号线-&gt;1号线 黄兴广场下 预计一个小时<br>大概十点四十到  折腾下十一点左右入住 早睡早起</p><h2 id="3-10"><a href="#3-10" class="headerlink" title="3.10"></a>3.10</h2><p>岳麓山 下雨天缆车不开放 提前打电话问 具体看天气可以放到11号去看<br>路线 1号线-&gt;2号线 溁湾镇下(3号口出，三个站) 共半个小时</p><ul><li>1.如果要坐索道(上行)和滑道(下行)从东门进；</li><li>2.如果要去爱晚亭和岳麓书院从南门进，2个地点离南门都很近，可以不用买票坐观光车，走路进。</li><li>3.南门的外面就是湖南大学，还可以去湖南大学走走。</li><li>4.从东门坐观光车及索道到达的终点是不同的地方。坐索道的终点有茶颜悦色</li><li>5.咨询索道是否开的电话可以打：(0731) 8882 5011‬/0731-88852111<br>反正预约小程序上的电话我打那么多次都没人接。</li><li>6.岳麓山是免费的，但如果需要坐交通工具就需要付费。<br>缆车上行30元，下行25元，往返50元，运行时间为上午9:00～17:00 东门<br>观光车在东门、南门及山顶均有售票处，单程门票20元/人，双程30元/人，单程票中途下车后不可再次上车。不停车大概十五分钟到达山顶，营业时间为08:30-17:30。<br>滑道(下行)35一个人 到东门</li><li>7.岳麓山和橘子洲公众号上预约（只能提前三天）</li></ul><p>8.南门有湖大美食街、爱晚亭、岳麓书院(40)、东方红广场</p><p>考虑缆车或观光车上去滑道下来 (65 or 55)<br>下雨暂定<br>东门观光车上去，顶上可能有雾，南门观光车下来<br>不下雨<br>东门缆车上去，滑道下到东门 公交去南门<br>美食街平价美食超多，推荐[饼万兴金丝牛肉饼][老头子糖油把耙][臭名远扬臭豆腐] [烧饼夹鸡柳] [外婆鞋耙]</p><p>橘子洲<br>路线 2号线[橘子洲站] 2号口出<br>记得带水<br>观光车：托马斯小火车样式，超级可爱!强烈推荐!营业时间心: 7:30-21:30<br>票价:成人票40元/人往返图(学生证半价)<br>购票方式:在vx公众号“骤龙橘子洲”网上购票or现场购票<br>每个站点随下随上，每次上车时扫码即可，无需重复购票，但是人多的时候都是满座，所以不要轻易下车!Tips:一定不要错过末班车，每站只能上下一次! !</p><p>万家丽广场(逛逛顶楼看看) 2号线 -&gt; 杨帆夜市就在旁边 吃完回酒店</p><h2 id="3-11"><a href="#3-11" class="headerlink" title="3.11"></a>3.11</h2><p>楼下黄兴步行街吃点</p><p>IFS国金中心 七楼KAWS</p><p>五一广场开始 -&gt; 轩辕殿巷古着一条街 -&gt; 太平老街(北门) -&gt; 文和友 -&gt; 坡子街<br>-&gt; 黄兴步行街 -&gt; 南门口 长郡中学小吃一条街</p><p>文和友只适合拍照<br>太平老街 [黑色经典臭豆腐]<br>小吃吃到饱 [天马牛肉饼] [糖油坨坨] [炸炸炸] [金栗门] [紫苏桃子] [五娭毑臭豆腐]<br>吃饭可以选 [笨罗卜浏阳菜馆]或者苍蝇馆子</p><h2 id="3-12"><a href="#3-12" class="headerlink" title="3.12"></a>3.12</h2><p>米粉街去看看 2号线[芙蓉广场] 4口</p><p>烈士公园看看 1号线[烈士公园南] 2A口</p><p>开福寺烧一炷香 1号线[开福寺]</p><p>时间不够 三选二</p><p>记得带茶颜悦色</p><p>下午3：55的飞机  三点钟到机场  预计一点四十出发  地铁一小时</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
